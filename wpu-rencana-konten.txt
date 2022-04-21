@@ -1,9 +1,13 @@
 Rencana konten
 - Youtube
   * Edukasi
+   * Lifestyle
+   * Upgrade skill
 - Tiktok
   * Short vidio
+   * Unik
+   * Berbobot
 - IG
-  * Gambar 
-- Facebook
-  * Artikel
+  * Gambar
+  * Poster
+
