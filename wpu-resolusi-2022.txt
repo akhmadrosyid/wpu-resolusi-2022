@@ -1,10 +1,12 @@
 WPU RESOLUSI
 - Belajar koding untuk web programer sampai mahir
-  * PHP
   * Git & Github
   * Dasar Pattern
+  * HTTP
+  * SSH
+  * Basic Terminal Usage
 - Belajar desain grafis sampai mahir
   * Warna
   * Logo
-- Belajar Instagram dan Facebook ads
+  * Garis
 - Freelance di Fiver
