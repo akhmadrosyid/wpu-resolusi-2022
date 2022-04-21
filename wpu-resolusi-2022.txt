@@ -1,5 +1,10 @@
 WPU RESOLUSI
 - Belajar koding untuk web programer sampai mahir
+  * PHP
+  * Git & Github
+  * Dasar Pattern
 - Belajar desain grafis sampai mahir
+  * Warna
+  * Logo
 - Belajar Instagram dan Facebook ads
-- Feelance di Fiver
+- Freelance di Fiver
